@@ -1,2 +1,2 @@
 # Practice-Sample
-https://practice-sample-lc2wipggdzh7euw7bbzisf.streamlit.app/
+https://practice-sample-syjqsz6jyxuzj3xktundip.streamlit.app/
